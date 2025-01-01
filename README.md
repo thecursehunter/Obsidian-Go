@@ -1,0 +1,2 @@
+# Obsidian-Go
+for syncing
